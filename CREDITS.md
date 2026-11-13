@@ -14,3 +14,8 @@ Fotos de [Unsplash](https://unsplash.com), bajo la [Licencia Unsplash](https://u
 | `img/grupo-hiphop.webp` | https://unsplash.com/photos/womens-black-shirt-lot-GRDpPpKczdY |
 
 Logo y marca Nodo Ventas: diseño propio. Tipografías: Google Fonts (OFL).
+
+## Marca y fotos del negocio
+
+- Logo: avatar público de Andanzas en magic.ly (https://magic.ly/andanzas) y foto de perfil de su Facebook.
+- Foto de clase: publicación pública en magic.ly (https://img.magic.ly/user/product/9c985980_1654104663832.webp), recortada para la demo.
